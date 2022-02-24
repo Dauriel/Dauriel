@@ -1,4 +1,5 @@
-### Hi there 👋
+<img align="right" src="https://i.pinimg.com/originals/82/bc/31/82bc31f3b6b8b85c06aa8e04518be0cf.gif" height="250">
+
 
 <!--
 **Dauriel/Dauriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
