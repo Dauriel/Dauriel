@@ -1,4 +1,4 @@
-<img  align="right" src="https://i.pinimg.com/originals/12/01/90/1201906dcf2eef9d5197c650dc3af91e.gif" height="450">
+<img  align="right" src="https://i.pinimg.com/originals/12/01/90/1201906dcf2eef9d5197c650dc3af91e.gif" height="300">
 
 - Hungry to learn
 - Happy to help
