@@ -2,8 +2,8 @@
 
 <br/><br/>    
 - Hungry to learn and always tired
-- Kebabs and coffee
-- Coffee coffee coffee
+- Kebabs and Caffeine pills
+- And sandwiches
 <!--
 **Dauriel/Dauriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
